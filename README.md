@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+Website for VaelCraft - Eagler RPG Client (1.5.2
